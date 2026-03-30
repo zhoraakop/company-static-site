@@ -1,10 +1,10 @@
-import cert1Preview from '../images/certificate1Prev.png';
+import cert1Preview from '../images/certificate1Prev.jpg';
 import cert1Pdf from '../images/certificate1.pdf';
-import cert2Preview from '../images/certificate2Prev.png';
+import cert2Preview from '../images/certificate2Prev.jpg';
 import cert2Pdf from '../images/certificate2.pdf';
-import cert3Preview from '../images/certificate3Prev.png';
+import cert3Preview from '../images/certificate3Prev.jpg';
 import cert3Pdf from '../images/certificate3.pdf';
-import cert4Preview from '../images/certificate4Prev.png';
+import cert4Preview from '../images/certificate4Prev.jpg';
 import cert4Pdf from '../images/certificate4.pdf';
 
 const Certificates = () => {
